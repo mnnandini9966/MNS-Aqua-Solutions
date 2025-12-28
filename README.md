@@ -22,4 +22,8 @@ Internal CSS
 /project-folder
 │── index.html
 
-git live link : 
+git live link : https://mnnandini9966.github.io/MNS-Aqua-Solutions/
+
+git clone : https://github.com/mnnandini9966/MNS-Aqua-Solutions
+
+contact : https://github.com/mnnandini9966
